@@ -323,6 +323,7 @@ while runtime:
     tof_3.start_ranging()
     time.sleep(0.5)
     if tof_3.data_ready:
+        # check for front clearance
         da = tof_3.distance
         print("Sensor 2: ", str( da ), end = "         ")
         dw = da if da is not None else dw
