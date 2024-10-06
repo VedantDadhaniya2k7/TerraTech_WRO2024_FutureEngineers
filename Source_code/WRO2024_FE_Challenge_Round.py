@@ -11,12 +11,12 @@ IMPORTS
 import cv2
 import math
 import numpy as np
-from picamera2 import Picamera2
-import RPi.GPIO as GPIO
+from picamera2 import Picamera2 # type: ignore
+import RPi.GPIO as GPIO # type: ignore
 import time
-import board
-import digitalio
-import adafruit_vl53l1x
+import board # type: ignore
+import digitalio # type: ignore
+import adafruit_vl53l1x # type: ignore
 
 
 in1 = 23
