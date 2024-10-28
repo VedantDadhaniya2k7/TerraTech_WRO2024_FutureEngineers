@@ -5,6 +5,7 @@ This repository contains engineering materials of the self-driven vehicle of Tea
 
 ## Content
 
+* `Documentation` contains an Engineering Document describing our Robot, Its components, Why we selected each Component, Code, and, its implementation.
 * `Team_Photos` contains 2 photos of the team (an official one and one funny photo with all team members)
 * `Vehicle_Photos` contains 6 photos of the vehicle (from every side, from top and bottom)
 * `Video` contains 5 videos that demonstrate the robot's functionality including it completing 3 laps of the Open Round
